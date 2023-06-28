@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "577468602231",
+    "project_id": "inheritx-340a0",
+    "storage_bucket": "inheritx-340a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577468602231:android:1a91ed8e283a2cbd9af372",
+        "android_client_info": {
+          "package_name": "com.example.inheritx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "577468602231-h7n1rebj07cjph7vhe2haq396aqjs910.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXBztMQcVSUAmP51Arfv3TNuXg91Mkhts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "577468602231-h7n1rebj07cjph7vhe2haq396aqjs910.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

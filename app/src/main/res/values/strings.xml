@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Inheritx</string>
+    <string name="enter_email_id">Enter Email Id</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="login">Login</string>
+    <string name="please_enter_email">Please Enter Email</string>
+    <string name="enter_name">Enter User Name</string>
+    <string name="register">Register</string>
+    <string name="already_have_an_account_login">Already have an account? Login</string>
+    <string name="please_enter_password">Please Enter Password</string>
+    <string name="please_enter_name">Please Enter Name</string>
+    <string name="message_register_success">Registered successfully.Please verify your email to login.</string>
+    <string name="enter_valid_email">Please Enter Valid Email</string>
+    <string name="please_verify_your_email">Please verify your email to continue using the app</string>
+    <string name="don_t_have_an_account_register">Don\'t Have an Account? Register</string>
+    <string name="update">Update</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="logout">Logout</string>
+
+</resources>
